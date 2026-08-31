@@ -16,7 +16,10 @@ load_dotenv()
 # ==================================================
 
 
-API_KEY = os.getenv("GEMINI_API_KEY")
+try:
+    API_KEY = st.secrets["GEMINI_API_KEY"]
+except Exception:
+    API_KEY = os.getenv("GEMINI_API_KEY")
 
 
 if not API_KEY:
