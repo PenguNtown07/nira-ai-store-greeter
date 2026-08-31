@@ -1,0 +1,12 @@
+product_id,product_name,category,price,primary_need,suitable_for,key_benefit,ideal_customer,complementary_products,bundle
+P01,NIRA Gentle Cleanser,Face Care,449,Cleansing,All skin types,Removes dirt and excess oil,Customers looking for a basic daily cleanser,Hydrating Moisturizer; Acne Control Serum; Sunscreen,Beginner Skin Trio
+P02,NIRA Hydrating Moisturizer,Face Care,599,Dryness and hydration,Dry and normal skin,Provides everyday hydration,Customers experiencing dryness,Gentle Cleanser; Sunscreen,Beginner Skin Trio
+P03,NIRA Oil-Control Moisturizer,Face Care,599,Oil control,Oily and combination skin,Provides lightweight hydration,Customers who want hydration without a heavy feel,Gentle Cleanser; Acne Control Serum,
+P04,NIRA Vitamin C Serum,Face Care,749,Dullness and brightening,"Normal, dry and oily skin",Helps improve the appearance of dull-looking skin,Customers concerned about dull-looking skin,Sunscreen; Gentle Cleanser,Bright Skin Duo
+P05,NIRA Barrier Serum,Face Care,799,Skin barrier support,Dry and sensitive skin,Supports a healthy skin barrier,Customers seeking gentle barrier-focused care,Hydrating Moisturizer,
+P06,NIRA Acne Control Serum,Face Care,699,Breakouts,Oily and acne-prone skin,Helps manage the appearance of breakouts,Customers concerned about occasional breakouts,Gentle Cleanser; Oil-Control Moisturizer,
+P07,NIRA Daily Sunscreen SPF 50,Face Care,699,Sun protection,All skin types,Provides daily sun protection,Customers looking for everyday sunscreen,Vitamin C Serum; Gentle Cleanser,Beginner Skin Trio; Bright Skin Duo
+P08,NIRA Daily Shampoo,Hair Care,499,Hair cleansing,All hair types,Provides everyday hair cleansing,Customers looking for a daily shampoo,Smooth Conditioner,
+P09,NIRA Smooth Conditioner,Hair Care,499,Frizz and dryness,Dry and frizzy hair,Helps improve smoothness and conditioning,Customers concerned about frizz or dry hair,Daily Shampoo; Hair Repair Mask,Hair Repair Duo
+P10,NIRA Scalp Care Serum,Hair Care,799,Scalp care,Customers with scalp-focused concerns,Supports a scalp-care routine,Customers specifically looking for scalp care,Daily Shampoo,
+P11,NIRA Hair Repair Mask,Hair Care,699,Hair damage and dryness,Dry and damaged hair,Provides deep conditioning for damaged hair,Customers looking to improve dry or damaged hair,Smooth Conditioner,Hair Repair Duo
